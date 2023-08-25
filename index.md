@@ -6,3 +6,7 @@
 ```
 $ sudo apt update
 ```
+
+- [ ] Decide on project
+- [ ] Decide on who does what
+- [ ] Get to work
